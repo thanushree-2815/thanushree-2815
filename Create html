@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @thanushree-2815
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-thanushree-2815/thanushree-2815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Web Page</title>
+</head>
+<body>
+	<h1>Welcome to My First Web Page</h1>
+	<p>This is a paragraph of text.</p>
+	<ul>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+	</ul>
+	<img src="image.jpg" alt="An image on the page">
+</body>
+</html>
+```
