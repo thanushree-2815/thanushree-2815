@@ -1,21 +1,19 @@
+<!DOCTYPE html>
 <html>
 <head>
-   <title>RESULT WINDOW</title>
+  <title>My First Web Page</title>
 </head>
-   <script>
-     x=parseInt(prompt("Enter the  X  is first number : ",0));
-     y=parseInt(prompt("Enter the Y is second number : ",0));
-     if(x>y)
-     {
-        alert("X is Greatest");
-      }
-     else
-     {
-        alert("Y is Greatest");
-      }
-     alert("The result is" + eval("alert('The Result of X-Y will be calculated');x-y;") +".");
-     document.write("Result Window");
-   </script>
- <body bgcolor="gray">
+<body>
+  <h1>Welcome to My Web Page</h1>
+  <p>This is my first web page.</p>
+  <p>I'm excited to learn more about HTML, CSS, and JavaScript!</p>
+  
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+  
+  <img src="https://via.placeholder.com/200x100" alt="A placeholder image">
 </body>
 </html>
